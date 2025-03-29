@@ -88,6 +88,3 @@ function timer(duration, display) {
 }
 
 timer(duration, display);
-
-
-// console.log(duration)

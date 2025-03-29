@@ -1,0 +1,2 @@
+Caso clone o repositorio os audios irão funcionar
+If you clone the repository the audios will work
